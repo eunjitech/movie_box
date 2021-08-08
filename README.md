@@ -6,7 +6,7 @@ React.js로 만든 영화 소개 사이트입니다.
 
 <img src="fullpage.png" width="700" />
 
-👉 [사이트 방문하기](http://www.naver.com)
+👉 [사이트 방문하기](https://eunjitech.github.io/movie_box/)
 
 ## Page
 
