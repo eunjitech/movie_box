@@ -1,0 +1,23 @@
+.navigation {
+  position: fixed;
+  top: 30px;
+  left: 10px;
+  display: inline-block;
+  z-index: 3;
+}
+
+.navigator {
+  text-decoration: none;
+  padding: 10px;
+  background-color: #f5f6fa;
+  font-weight: 600;
+  color: #2f2f2f;
+  font-size: 0.8em;
+  border-radius: 7px;
+  margin-right: 5px;
+}
+@media screen and (max-width: 530px) {
+  .navigator {
+    font-size: 0.6em;
+  }
+}
