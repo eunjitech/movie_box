@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/movie_box/static/css/main.2331556d.chunk.css",
+    "main.js": "/movie_box/static/js/main.8eda2f19.chunk.js",
+    "main.js.map": "/movie_box/static/js/main.8eda2f19.chunk.js.map",
+    "runtime-main.js": "/movie_box/static/js/runtime-main.452e30eb.js",
+    "runtime-main.js.map": "/movie_box/static/js/runtime-main.452e30eb.js.map",
+    "static/js/2.f65e4e4e.chunk.js": "/movie_box/static/js/2.f65e4e4e.chunk.js",
+    "static/js/2.f65e4e4e.chunk.js.map": "/movie_box/static/js/2.f65e4e4e.chunk.js.map",
+    "index.html": "/movie_box/index.html",
+    "static/css/main.2331556d.chunk.css.map": "/movie_box/static/css/main.2331556d.chunk.css.map",
+    "static/js/2.f65e4e4e.chunk.js.LICENSE.txt": "/movie_box/static/js/2.f65e4e4e.chunk.js.LICENSE.txt",
+    "static/media/About.css": "/movie_box/static/media/harry.5a126604.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.452e30eb.js",
+    "static/js/2.f65e4e4e.chunk.js",
+    "static/css/main.2331556d.chunk.css",
+    "static/js/main.8eda2f19.chunk.js"
+  ]
+}
