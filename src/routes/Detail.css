@@ -43,6 +43,8 @@ img.detail__bg {
   justify-content: center;
   column-gap: 30px;
   margin-bottom: 20px;
+  flex-flow: wrap;
+  row-gap: 15px;
 }
 .detail__genre {
   padding: 5px;

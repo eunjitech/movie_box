@@ -32,13 +32,13 @@ class Detail extends React.Component {
               <span className="detail__title">{location.state.title} </span>
               <span className="detail__year">({location.state.year})</span>
             </div>
-            <span className="detail__genres">
+            <ul className="detail__genres">
               {location.state.genres.map((genre, index) => (
                 <li key={index} className="detail__genre">
                   {genre}
                 </li>
               ))}
-            </span>
+            </ul>
             <p className="detail__summary">{location.state.summary}</p>
           </div>
         </div>
