@@ -45,6 +45,7 @@ body {
   display: flex;
   overflow-x: scroll;
   margin-bottom: 20px;
+  flex-flow: wrap;
 }
 .movie__data .genres .genres__genre {
   margin-right: 20px;
