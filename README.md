@@ -22,3 +22,7 @@ React.js로 만든 영화 소개 사이트입니다.
 ## Functions
 
 - React.js의 기본 문법 활용 (Class Component, Life Cycle, axios)
+
+## Issue
+
+- [빌드 시 404 에러](./issue/build.md)
